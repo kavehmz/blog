@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kaveh Diary</title>
+    <link>/</link>
+    <description>Recent content on kaveh Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kavehmz@gmail.com (Kavehmz)</managingEditor>
+    <webMaster>kavehmz@gmail.com (Kavehmz)</webMaster>
+    <copyright>© 2018 Copyright kavehmz</copyright>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
